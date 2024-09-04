@@ -1,0 +1,28 @@
+.class {
+    background-color: lightcoral;
+    font-size: 18px; 
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+#bluediv {
+    background-color: none;
+    color: blue; 
+    font-size: 40px;
+}
+
+.coolclass {
+    background-color: lightcoral;
+    font-size: 30px; 
+    font-family: sans-serif;
+}
+
+#greendiv {
+    background-color: lightgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+
+
