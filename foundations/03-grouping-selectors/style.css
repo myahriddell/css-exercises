@@ -1,0 +1,16 @@
+.yellowbtn,
+.blackbtn {
+font-family: sans-serif;
+font-size: 45px;
+text-align: center;
+}
+
+.blackbtn {
+    color: white;
+    background-color: black;
+}
+
+.yellowbtn {
+    color: black;
+    background-color: yellow;
+}
